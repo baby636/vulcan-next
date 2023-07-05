@@ -81,7 +81,7 @@
     "next": "^10.0.2",
     "next-connect": "^0.9.1",
     "next-i18next": "^5.1.0",
-    "next-mdx-remote": "^2.1.3",
+    "next-mdx-remote": "^4.0.0",
     "next-sitemap": "^1.4.17",
     "passport": "^0.4.1",
     "passport-local": "1.0.0",
@@ -98,7 +98,7 @@
     "swr": "^0.4.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.10.2",
+    "@babel/core": "^7.22.6",
     "@types/mongoose": "^5.7.27",
     "@types/node": "^13.7.6",
     "@types/react": "^16.9.23",
