@@ -77,7 +77,7 @@
     "i18next-browser-languagedetector": "^4.2.0",
     "i18next-http-backend": "^1.0.15",
     "lodash": "^4.17.19",
-    "mongoose": "^5.9.19",
+    "mongoose": "^5.13.3",
     "next": "^10.0.2",
     "next-connect": "^0.9.1",
     "next-i18next": "^5.1.0",
